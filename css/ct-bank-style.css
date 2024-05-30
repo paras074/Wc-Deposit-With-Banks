@@ -1,0 +1,241 @@
+.mep_event_add_cart_table div.bnk-pp-payment-btn-wraper {
+    text-align: center;
+    margin: 15px 0;
+    display: none;
+}
+.bnk-pp-payment-btn-wraper {
+    width: 100%;
+}  
+.bnk-pp-payment-btn-wraper ul li {
+	display: block;
+	/* margin: 10px 10px; */
+	background: transparent;
+	font-size: 16px;
+} 
+
+/* .bnk-pp-payment-terms li p {
+	font-size: 14px !important;
+} */
+
+input.bnk-pp-user-amountinput {
+    display: inline-block!important;
+    width: 50px!important;
+    padding: 5px!important;
+    font-size: 16px!important;
+    border: 1px solid!important;
+}
+
+.bnk-pp-payment-btn-wraper span.woocommerce-Price-amount.amount, .bnk-pp-payment-btn-wraper input {
+    margin: 0 5px!important;
+}
+.bnk-pp-history-table tr th,
+.bnk-pp-history-table tr td {
+    text-align: center;
+}
+.bnk-pp-history-table {
+    margin-bottom: 20px;
+}
+.bnk-pp-history-table .mep_current_last_due {
+    color: #cc1818;
+}
+td > input[name="manually_pay_amount"] {
+    width: 50%;
+    border-radius: 5px;
+}
+.mep_event_add_cart_table div.mep-product-payment-plans {
+    background-color: #FBFBFB;
+    text-align: left;
+    padding: 5px 0!important;
+}
+.mep-product-payment-plans strong{font-weight: bold !important;}
+.mep-product-payment-plans label {
+    display: inline-block!important;
+    font-size: 17px;
+    font-weight: 500;
+}
+.mep-single-plan.plan-details {
+    padding-left: 23px;
+    display: none;
+}
+ul.bnk-pp-payment-terms label{margin: 0;}
+.mep-single-plan.plan-details p{margin: 7px 0 0 0;}
+.mep-single-plan.plan-details table{width:100%;margin: 10px 0;}
+.mep-single-plan.plan-details table thead {
+    background-color: #f6f3f3;
+}
+ul.bnk-pp-payment-terms label input,
+.mep-single-plan-wrap input {
+    width: 25px!important;
+    height: 33px;
+    vertical-align: top;
+}
+.mep-single-plan.plan-details table th {
+    padding:5px;
+    font-size:14px;
+}
+.mep-single-plan.plan-details table td {
+    font-size: 13px!important;
+    padding:5px;
+}
+.bnk-pp-show-detail {
+    color: #7bc1c1;
+    font-size: .8em;
+    margin-left: 5px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.mep-single-plan-wrap {
+    margin-bottom: 10px;
+}
+.bnk-pp-payment-terms p {
+	margin-bottom: 0;
+}
+.or_text {
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 15px 0;
+}
+.bnk-pp-payment-btn-wraper .bnk-pp-payment-terms {
+    
+    margin: 10px 0;
+    padding-left: 0;
+}
+.mep_due_pay_btn {
+    display: block;
+    text-align: center;
+    background: #f9ee15;
+    border-radius: 5px;
+    margin-top: 5px;
+    text-decoration: none!important;
+}
+.mep_style_ta_r {
+    text-align: right!important;
+}
+.mep_style_tt_upper {
+    text-transform: uppercase;
+}
+.mepp-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.mepp-table th {
+    text-align: center;
+}
+.mepp-table td {
+    border: 1px solid #dfdfdf;
+    padding: 10px 5px;
+    text-align: center;
+    position: relative;
+}
+.mepp-table tbody > tr:nth-child(odd) td {
+    background: #ecf5fd
+}
+.mepp-table tbody tr:nth-child(even) td {
+    background: #fff
+}
+.mepp-table tr.active {
+    background: #d3ffe0;
+}
+.mepp-table > thead > tr {
+    background: #f26190;
+}
+.mepp-table > thead th {
+    border: 1px solid #f26190;
+    background: #f26190;
+    color: #fff;
+    padding: 5px 5px;
+    text-align: center;
+}
+.wcpp-deposit-types .inner {
+    display: flex;
+    flex-direction: column;
+}
+.mepp-payment-plan-option-frontend {
+    display: none;
+}
+.mepp_custom_message_product {
+    background: #f6e8e8;
+    border-left: 5px solid green;
+    padding: 5px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+.mepp-payment-plan-cart-btn {
+    width: 100%;
+    padding: 3px;
+    font-size: 13px;
+    background: #262626;
+}
+ul.bnk-pp-payment-terms .bnk-pp-user-amountinput {
+    width: 103px !important;
+    text-align: center;
+}
+.wcpp-deposit-types .wcpp-input-group {
+    display: flex;
+    align-items: center;
+}
+.wcpp-deposit-types .wcpp-input-group label {
+    margin: 0 10px 0;
+}
+.partial_wrong_input {
+    padding: 0 19px!important;
+    color: red!important;
+}
+.bnk-pp-payment-terms li:first-child {
+	margin-bottom: 0;
+}
+.bnk-pp-payment-terms {
+    margin: 5px 0 10px !IMPORTANT;
+}
+span#cst_text_sp {
+    display: block;
+} 
+
+a#by_deposit_partial_full {
+    background: none !important;
+    color: #000 !important;
+    transition: all 0.5s !important;
+    border: 2px solid #000 !important;
+    border-radius: 100px !important;
+    max-width: 180px;
+    width: 100%; 
+    display: inline-flex;
+    font-family: 'shippori-mincho-b1', serif;
+    height: 3rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+}  
+a#by_deposit_partial_full:hover {
+    background: #000 !important;
+    color: #fff !important;
+}	
+body.single.single-product form.cart {
+    align-items: flex-start;
+    flex-direction: column;
+} 
+.custm_payment_s h4 {
+    font-weight: 600;
+}
+.custm_payment_s {
+    padding-bottom: 5px;
+}
+#by_deposit_partial_full::before, .single_add_to_cart_button.button::before {
+    display: inline-block;
+    content: "\e8ba";
+    font-family: "Porto";
+    margin-right: .5rem;
+    font-size: 1.125rem;
+}
+
+
+@media only screen and (max-width:767px){
+.or_text {
+	display: block;
+	margin-bottom: 5px;
+}
+}

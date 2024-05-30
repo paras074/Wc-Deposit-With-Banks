@@ -1,0 +1,6 @@
+.bank-transfer-order table.wc-order-totals tr:first-child, .bank-transfer-order table.wc-order-totals tr:last-child {
+    display: none;
+}
+td.custom-total {
+    font-weight: 700;
+}
